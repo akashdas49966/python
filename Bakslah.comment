@@ -1,0 +1,8 @@
+print("\"Hello World\"")
+
+#first program
+'''
+how are
+you
+'''
+print("hello \n world")

@@ -1,3 +1,26 @@
+
+
+#math / // + - * %
+
+
+a=int(input("আপনার নাম্বার প্রবেশ করান: "))
+b=int(input("আপনার নাম্বার প্রবেশ করান: "))
+sum=int(a)+int(b)
+sum1=int(a)-int(b)
+
+
+print("আপনার যোগফল",sum)
+
+print("আপনার বিয়েোগফল",sum1)
+
+
+
+
+
+
+
+
+
 a=input("Enter Your Number: ")
 b=input("Enter Your Number: ")
 sum=int(a)+int(b)

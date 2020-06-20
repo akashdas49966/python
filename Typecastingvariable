@@ -1,0 +1,20 @@
+a=input("Enter Your Number: ")
+b=input("Enter Your Number: ")
+sum=int(a)+int(b)
+sum1=int(a)-int(b)
+sum2=int(a)*int(b)
+sum3=int(a)%int(b)
+sum4=int(a)/int(b)
+sum5=int(a)//int(b)
+
+
+print("your + answer",sum)
+
+print("your - answer",sum1)
+print("your * answer",sum2)
+print("your % answer",sum3)
+
+print("your / answer",sum4)
+print("your // answer",sum5)
+
+print("Happy +++ life  ")

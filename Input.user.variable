@@ -1,0 +1,9 @@
+name=input( "Enter your name : ")
+age=input("Enter your Age : ")
+year=input("Enter your year : ")
+
+print("Islamia Adarsha High School ")
+print("++++++++++++++++++++++++++++++")
+print("name : "+name)
+print("age : "+age)
+print("year : "+year )

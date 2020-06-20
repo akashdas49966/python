@@ -1,0 +1,19 @@
+#variable
+
+
+
+
+
+name="akash"
+cgpa="3.97"
+age="18"
+year=2020
+print("My Name Is "+name)
+print("My year ",year,",Comfortable  Life")
+print("Sometime my result ",cgpa,",and i am halppy")
+print("Old Is Gold ,Not Prefer "+name)
+
+
+
+
+
